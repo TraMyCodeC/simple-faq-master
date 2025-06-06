@@ -1,0 +1,23 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+body{
+        background-color: #f9f9f9;
+}
+header{
+    min-height: 80px;
+    text-align: center;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 4%;
+}
+h1{
+    margin-bottom: 10px;
+}
+section{
+    padding: 50px 450px 50px 450px;
+}
+a{
+    text-decoration: none;
+    color: #3b82f6;
+}
