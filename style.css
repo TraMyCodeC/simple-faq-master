@@ -1,5 +1,5 @@
 *{
-    font-family: 'Inter', sans-serif;
+    font-family: 'sans-serif';
 }
 html{
     font-size: 16px;
@@ -8,7 +8,7 @@ h1{
     margin-bottom: 0.5rem;
 }
 body{
-        background-color: #f9f9f9;
+        background-color: #f8edeb;
 }
 a{
     text-decoration: none;
